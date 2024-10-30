@@ -1,0 +1,1 @@
+El programa permite convertir monedas de un catalogo de monedas, la conversión se hace una a una entre ellas, los datos de la tasa de cambio se actualizan cada dia a las 00:00 GMT mediante conexión a la API de exchangerate-api.com
